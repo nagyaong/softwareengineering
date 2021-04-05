@@ -1,1 +1,1 @@
-print("LOVE")
+print("LOVE U")
